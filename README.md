@@ -1,2 +1,2 @@
 # Sociopedia
-# Sociopedia
+
